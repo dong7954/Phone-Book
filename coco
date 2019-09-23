@@ -1,0 +1,14 @@
+
+
+
+desc Pnumber
+select * from Pnumber
+insert into Pnumber( name,number)
+ values('조성환','01022222222')
+
+insert into Pnumber( name,number)
+ values('김동하','01011111111')
+
+delete from pnumber 
+where number;
+ 
